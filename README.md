@@ -1,6 +1,8 @@
 ## Hey, it's Manan! 👋
 
+<center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quattrocento+Sans&weight=500&size=25&pause=1000&color=F7E917&center=true&vCenter=true&width=435&lines=Programmer;Data+Scientist;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+</center>
 
 I am a programmer, data scientist, and visionary. I am broadly interested in lifelong (continual) learning, theoretical machine learning and Super-Turing hierarchy. I am also interested in computer science education.
 
