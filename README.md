@@ -6,13 +6,14 @@ I am a programmer, data scientist, and visionary. I am broadly interested in lif
 
 ### 👨🏻‍💻 About Me 
 
-<!-- - 🔭 &nbsp; I’m currently learning Flutter Application Development -->
+- 🔭 &nbsp; I’m currently researching in the field of biologically-inspired lifelong/continual learning.
 - 🤔 &nbsp; I'm constantly exploring state-of-the-art technologies and developing solutions to complex problems.
 - 🎓 &nbsp; I'm studying Computer Science (MS) at the Manning College of Information & Computer Sciences at the University of Massachusetts Amherst. 
-- 🌱 &nbsp; I'm enthusiastic about Artifical Intelligence, Machine Learning, Deep Learning.
-<!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🌱 &nbsp; I'm enthusiastic about Artifical Intelligence, Machine Learning, and Deep Learning.
+- ✍️ &nbsp; I love traveling, hiking, binge watching and hitting the gym.
+- ☕ &nbsp; Fun Fact: I recently gave up coffee! 
 
+<!-- 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | Java | C++  
@@ -21,7 +22,8 @@ I am a programmer, data scientist, and visionary. I am broadly interested in lif
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
---> 
+
+-->
 
 <br>
 
