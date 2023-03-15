@@ -1,6 +1,6 @@
 ## Hey, it's Manan! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quattrocento+Sans&weight=500&size=25&pause=1000&color=F7E917&center=true&vCenter=true&width=435&lines=Programmer;Data+Scientist;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quattrocento+Sans&weight=700&size=26&pause=1000&width=435&lines=Software+Developer;Data+Scientist;AI%2FML+Researcher;Grad+Student+%40+UMass+Amherst)](https://git.io/typing-svg)
 
 I am a programmer, data scientist, and visionary. I am broadly interested in lifelong (continual) learning, theoretical machine learning and Super-Turing hierarchy. I am also interested in computer science education.
 
@@ -22,8 +22,9 @@ I am a programmer, data scientist, and visionary. I am broadly interested in lif
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
-
 -->
+
+### 📊 My GitHub Statistics
 
 <br>
 
